@@ -1,5 +1,5 @@
 //type conversion = manualy converting the type
-// type coercion = JS will convert the type automaticly
+// type coercion = JS will convert the type automaticly.
 
 //Type conversion
 const inputYear = '1991';
